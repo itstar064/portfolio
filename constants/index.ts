@@ -309,20 +309,20 @@ export const TYPED_STRINGS = [
 ];
 
 export const SOCIALS = [
-  {
-    name: "Telegram",
-    icon: FaTelegram,
-    link: "https://t.me/StellaRay777",
-  },
-  {
-    name: "Skype",
-    icon: FaSkype,
-    link: "https://join.skype.com/invite/x6C2Nf1SDyrp",
-  },
+  // {
+  //   name: "Telegram",
+  //   icon: FaTelegram,
+  //   link: "https://t.me/StellaRay777",
+  // },
+  // {
+  //   name: "Skype",
+  //   icon: FaSkype,
+  //   link: "https://join.skype.com/invite/x6C2Nf1SDyrp",
+  // },
   {
     name: "Discord",
     icon: RxGithubLogo,
-    link: "https://github.com/CodeByStella",
+    link: "https://github.com/itstar064",
   },
 ] as const;
 
@@ -330,16 +330,16 @@ export const FOOTER_DATA = [
   {
     title: "Community",
     data: [
-      {
-        name: "Telegram",
-        icon: FaTelegram,
-        link: "https://t.me/+Fa5kTluTaD9jNjk0",
-      },
-      {
-        name: "Discord",
-        icon: FaDiscord,
-        link: "https://discord.gg/huYgwCPeeP"
-      },
+      // {
+      //   name: "Telegram",
+      //   icon: FaTelegram,
+      //   link: "https://t.me/+Fa5kTluTaD9jNjk0",
+      // },
+      // {
+      //   name: "Discord",
+      //   icon: FaDiscord,
+      //   link: "https://discord.gg/huYgwCPeeP"
+      // },
       {
         name: "GitHub",
         icon: RxGithubLogo,
@@ -410,5 +410,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/CodeByStella/Stella-Portfolio",
+  sourceCode: "https://github.com/itstar064/portfolio",
 };

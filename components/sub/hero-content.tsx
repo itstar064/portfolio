@@ -47,7 +47,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          私は<b>Stella Ray</b>です。8年以上の経験を持つフルスタックWeb開発者として、スケーラブルで安全、ユーザー中心のWebアプリケーションを構築しています。ダイナミックなフロントエンドから強力なバックエンドまで、MERNスタック、Next.js、TypeScript、Tailwind CSSなどの最新技術を使用して、シームレスなデジタル体験を提供することに特化しています。一緒に素晴らしいものを作りましょう。
+          私は8年以上の経験を持つフルスタックWeb開発者として、スケーラブルで安全、ユーザー中心のWebアプリケーションを構築しています。ダイナミックなフロントエンドから強力なバックエンドまで、MERNスタック、Next.js、TypeScript、Tailwind CSSなどの最新技術を使用して、シームレスなデジタル体験を提供することに特化しています。一緒に素晴らしいものを作りましょう。
         </motion.p>
 
         <motion.a

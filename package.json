@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Stella Ray",
-    "email": "okovtun747@gmail.com",
-    "url": "https://github.com/CodeByStella"
+    "name": "後藤 章太",
+    "email": "engineer.jp.team@gmail.com",
+    "url": "https://github.com/itstar064"
   },
   "description": "Welcome to my full stack developer portfolio.",
   "keywords": [
@@ -48,11 +48,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CodeByStella/Stella-Portfolio"
+    "url": "https://github.com/itstar064/portfolio"
   },
-  "homepage": "https://github.com/CodeByStella/Stella-Portfolio#readme",
+  "homepage": "https://github.com/itstar064/portfolio#readme",
   "bugs": {
-    "url": "https://github.com/CodeByStella/Stella-Portfolio/issues",
+    "url": "https://github.com/itstar064/portfolio/issues",
     "email": "okovtun747@gmail.com"
   },
   "dependencies": {
